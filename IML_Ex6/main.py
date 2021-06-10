@@ -1,3 +1,8 @@
+"""
+Michael Zhitomirsky 321962714
+Or Shahar           208712471
+"""
+
 from Parity3 import Xor3
 
 if __name__ == '__main__':
